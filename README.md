@@ -15,6 +15,7 @@ Azure Boards are essential for tracking user stories, tasks, and bugs. As a QA t
 * Kanban Boards: The visual Kanban boards in Azure DevOps enable QA testers to monitor the progress of testing activities. Testers can move tasks through different stages (e.g., To Do, In Progress, Done) to visualize workflow.
 * Collaboration: Azure DevOps Boards promotes collaboration between developers, QA testers, and other stakeholders. Testers can comment on work items, share insights, and communicate directly within the platform, improving team dynamics.
 ![image](https://github.com/user-attachments/assets/a3b10a94-3853-4cff-aba8-820799f6762d)
+![11](https://github.com/user-attachments/assets/e4ea77f4-5f29-4a68-b179-45e37a79fcc1)
 
 # 4. Defect Tracking and Management
 Efficient defect management in Azure DevOps streamlines communication and improves bug resolution times:

@@ -69,7 +69,7 @@ Azure Repos, part of the Azure DevOps suite, provides a Git-based source control
 ![image](https://github.com/user-attachments/assets/040b6e7f-e6f7-4d1b-9ed7-4731e2be79be)
 ![image](https://github.com/user-attachments/assets/541c59db-9891-4b2d-bf2f-e269b76dde32)
 
-# 11.Using Azure DevOps Repos
+# 11.Using Azure DevOps Artifacts
 Azure Artifacts helps QA testers store packages and manage dependencies, improving test reliability and supporting collaborative testing practices.
 * Package Management: Azure Artifacts serves as a universal package manager, storing packages and dependencies that can be shared across teams. This includes test libraries, automation frameworks, and configuration files.
 * Creating Feeds: Start by creating a feed in Azure Artifacts, a dedicated storage area for packages. QA teams can create a separate feed for each project, enabling easy access to relevant dependencies.

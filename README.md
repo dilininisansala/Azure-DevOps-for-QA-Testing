@@ -68,7 +68,7 @@ Azure Repos, part of the Azure DevOps suite, provides a Git-based source control
 * Version Control for Test Cases: Use the repository to store and version control test scripts, ensuring that all test cases have a clear history of changes.
 * Branching for Test Script Development: Create separate branches for different testing tasks (e.g., regression, smoke, and new feature testing) to isolate test scripts under development.
 * Adding Test Scripts: Store automated test scripts in the repo for easy access and versioning. Scripts can be created for UI, API, performance, or any other automation and stored in organized folders.
-![Screenshot 2024-10-28 152010](https://github.com/user-attachments/assets/76ba2069-a081-4ed1-894e-ce9f7c9dc243)
+![new1](https://github.com/user-attachments/assets/b94dc68a-4323-4a96-8982-58e132ff885e)
 ![image](https://github.com/user-attachments/assets/87f18cae-8317-49d0-8b8c-4ac479225b15)
 ![image](https://github.com/user-attachments/assets/040b6e7f-e6f7-4d1b-9ed7-4731e2be79be)
 ![image](https://github.com/user-attachments/assets/541c59db-9891-4b2d-bf2f-e269b76dde32)

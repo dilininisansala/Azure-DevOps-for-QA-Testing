@@ -46,6 +46,10 @@ Test pipelines are essential for integrating CI/CD (Continuous Integration/Conti
 * Test Execution: QA testers can define and manage various types of tests (unit, integration, UI, performance, etc.) in the pipeline. They can specify when and how these tests should be executed during the build and release processes.
 * Viewing Results: Review automated test results directly in Azure Pipelines, where you can identify which tests passed, failed, or were skipped.
 * Reporting and Metrics: Azure DevOps Pipelines can generate reports on test results, code quality, and other metrics. Testers can use this data to analyze trends, track quality over time, and make informed decisions.
+![1](https://github.com/user-attachments/assets/9dbd41c7-a6c1-4af7-afc2-1732599e5b0c)
+![2](https://github.com/user-attachments/assets/d2eae5e1-250a-4d4b-b32d-97e018562d57)
+![4](https://github.com/user-attachments/assets/c34408dd-2cb7-4c1b-b552-8e4b22472332)
+![5](https://github.com/user-attachments/assets/768e8407-9ccc-4cc5-b16a-b69c95ce662c)
 
 # 8. Tracking and Reporting Test Results
 Reporting and tracking test results are key to QA processes in Azure DevOps:

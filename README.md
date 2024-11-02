@@ -48,8 +48,8 @@ Test pipelines are essential for integrating CI/CD (Continuous Integration/Conti
 * Reporting and Metrics: Azure DevOps Pipelines can generate reports on test results, code quality, and other metrics. Testers can use this data to analyze trends, track quality over time, and make informed decisions.
 ![1](https://github.com/user-attachments/assets/9dbd41c7-a6c1-4af7-afc2-1732599e5b0c)
 ![2](https://github.com/user-attachments/assets/d2eae5e1-250a-4d4b-b32d-97e018562d57)
-![4](https://github.com/user-attachments/assets/c34408dd-2cb7-4c1b-b552-8e4b22472332)
-![5](https://github.com/user-attachments/assets/768e8407-9ccc-4cc5-b16a-b69c95ce662c)
+![Screenshot 2024-11-02 223337](https://github.com/user-attachments/assets/8caf8b18-e900-48a0-af1d-c177b0020178)
+![Screenshot 2024-11-02 224127](https://github.com/user-attachments/assets/7cd7221f-a352-424a-9396-2ffe0219de7c)
 
 # 8. Tracking and Reporting Test Results
 Reporting and tracking test results are key to QA processes in Azure DevOps:
